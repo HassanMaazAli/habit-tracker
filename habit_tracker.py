@@ -4,7 +4,8 @@ habits = [
     ("Drink water", True),
     ("Read 10 pages", False),
     ("Exercise", True),
-    ("Sleep 8 hours", True)
+    ("Sleep 8 hours", True),
+    ("Meditate", False)  # Added new habit
 ]
 
 def habit_report(habits):
